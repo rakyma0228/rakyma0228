@@ -1,5 +1,10 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <!-- <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=250&section=header&text=Rakyma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Data%20Engineer%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60" alt="Rakyma" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Data+Engineer;Full-Stack+Builder;DSA+Enthusiast;Always+Learning+New+Things;Respect+Everyone" alt="Typing animation" />
+</p>
 </div>
 
 ###

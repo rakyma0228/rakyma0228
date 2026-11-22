@@ -29,14 +29,6 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">I'm Rakyma.<br><br>- 🔭 I’m working as software engineer. <br>- 📚 I'm currently learning AI.<br>- ⚡ In my free time I enjoy chatting with random one.</p>
-
-###
-
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
